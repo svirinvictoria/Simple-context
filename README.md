@@ -1,2 +1,2 @@
 # Simple-context
-using useContext instead of props. 
+Using useContext instead of props. Sending data fom grandson to father and grandfather.
